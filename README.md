@@ -1,4 +1,4 @@
-# Hi there, I'm João Pinto! 👋
+# Hi there, I'm João Pinto! 
 
 I'm a University Student at **UBI** (Universidade da Beira Interior) based in **Fundão**. I'm currently focused on expanding my knowledge in software development and cybersecurity.
 
