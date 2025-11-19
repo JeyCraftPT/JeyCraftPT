@@ -2,9 +2,9 @@
 
 I'm a University Student at **UBI** (Universidade da Beira Interior) based in **Fundão**. I'm currently focused on expanding my knowledge in software development and cybersecurity.
 
-- 🎓 Studying at **UBI**
-- 🔐 Interested in **Cybersecurity, Encryption, and Backend Development**
-- 💻 Currently working on secure messaging systems and web applications
+- Studying at **UBI**
+- Interested in **Cybersecurity, Encryption, and Backend Development**
+- Currently working on secure messaging systems and web applications
 
 ---
 
@@ -27,14 +27,14 @@ I'm a University Student at **UBI** (Universidade da Beira Interior) based in **
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🔐 AthenaCrypt</h3>
+      <h3 align="center">AthenaCrypt</h3>
       <p align="center">A Java-based client-server messaging system featuring end-to-end encryption using AES, RSA, and the Double Ratchet algorithm.</p>
       <p align="center">
         <a href="https://github.com/JeyCraftPT/AthenaCrypt">View Repository</a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🛡️ Cybersecurity Dashboard</h3>
+      <h3 align="center">Cybersecurity Dashboard</h3>
       <p align="center">Full-stack development (JS/TS) for cybersecurity project management (ciber-front/back).</p>
       <p align="center">
         <a href="https://github.com/Patal-Ciberseguranca/ciber-front">View Repository</a>
